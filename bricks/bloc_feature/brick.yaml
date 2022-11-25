@@ -23,6 +23,6 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: Enter the name of your feature (lowercase only).
+    default: counter
+    prompt: What is the feature name
